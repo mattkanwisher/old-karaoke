@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bvh323fjpv8w2"]
+
+[ext_resource type="Script" path="res://scenes/client.gd" id="1_vf6ll"]
+
+[node name="djclient" type="Node2D"]
+script = ExtResource("1_vf6ll")
